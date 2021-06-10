@@ -26,7 +26,8 @@ CREDITS
 ❤️ Yone-robot= noob-kittu 
 
 
-This Bot Is Created By @DEVILRAVANXOP ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot Is Created By @DEVILRAVANXOP ! if your kanging this without fork at least give a credit to get a smile of 
+
 
 
 
